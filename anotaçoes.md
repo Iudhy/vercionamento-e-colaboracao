@@ -1,3 +1,6 @@
+#Minhas anotaçoes
+
+
 Repositorio
 é a pasta do projeto
 
@@ -17,6 +20,15 @@ clona-se esse repositorio para o seu computador, trabalha se nele e
 entao é pedida a permissao para atualizar as alteraçoes online.
 
 Pull
+é a atualizaçao do repositorio local. é feito um merge do repositorio
+online com o local.
+
+Push
+é como um clone, porem dentro do github. isso quer dizer que o 
+repositorio nao vai ser baixado para o seu computador, mas sera criado
+um igua em sua conta.
+
+Fork
 é como um clone, porem dentro do github. isso quer dizer que o repositorio
 nao vai ser baixado para o seu computador, mas sera criado um igual em sua conta.
 
